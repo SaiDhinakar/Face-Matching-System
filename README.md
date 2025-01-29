@@ -63,7 +63,6 @@ The following example shows the output of the system recognizing faces in a stat
 |------------------|----------------|
 | ![KnownPerson](ScreenShots/Multiple_Face_Matching_screenshot_29.01.2025.png) | ![UnknownPerson](ScreenShots/Face-Matching.jpg) |
 
-In the "Before" image, no names or confidence scores are displayed. In the "After" image, recognized faces are labeled with the name and matching confidence.
 
 ## Directory Structure
 
