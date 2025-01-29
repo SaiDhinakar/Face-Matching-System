@@ -1,4 +1,3 @@
-```markdown
 # Advanced Face Recognition System
 
 This project implements an advanced face recognition system that can detect, track, and match faces in real-time from a webcam feed and static images. The system utilizes **dlib**'s face detection, recognition, and landmark prediction models to perform face matching against a set of known reference images.
