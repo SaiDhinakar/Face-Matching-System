@@ -26,14 +26,8 @@ The project includes:
     ```bash
     pip install -r requirements.txt
     ```
-
-3. Download the necessary dlib model files:
-    - **Shape Predictor**: [shape_predictor_68_face_landmarks.dat](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2)
-    - **Face Recognition Model**: [dlib_face_recognition_resnet_model_v1.dat](http://dlib.net/files/dlib_face_recognition_resnet_model_v1.dat.bz2)
-
-    After downloading, place the `.dat` files in the `dlib_models/` folder.
-
-4. Organize your reference images:
+    
+3. Organize your reference images:
     - Create a folder named `images/` and inside it, create subfolders for each person.
     - Each subfolder should contain images of that person (e.g., `images/person1/image1.jpg`, `images/person1/image2.jpg`).
 
